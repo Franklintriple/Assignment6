@@ -1,0 +1,2187 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+
+    font-size: 16px;
+    margin: 0;
+    overflow-x: hidden;
+
+    
+}
+
+
+
+
+.top-body{
+
+    background-image: url(./Mobile-App-Hero-BG.webp);
+background-position-x: 0px;
+background-position-y: 0%;
+background-repeat: no-repeat;
+background-size: contain;
+display: block;
+height: 902px;
+line-height: 25.6px;
+color: rgb(72, 101, 129);
+background-color: #EFF8FF;
+width: 100%;
+overflow: hidden;
+
+}
+
+.list-items
+{
+
+    display: none;
+}
+
+.nav-end{
+
+    display: none;
+}
+
+
+.navbar{
+
+    display: flex;
+   
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+  
+}
+
+.toggle{
+
+    display: flex;
+margin-left: 65% ;
+   padding-right: 20px;
+ 
+
+}
+.logo-header img{
+    width: 103.3px;
+}
+
+
+.section1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.section1-header{
+    margin-top: 2rem;
+        
+    }
+
+
+
+    .section1-paragraph1{
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        background-color: rgb(223, 241, 255);
+        width: 300.5px;
+        margin-left: auto;
+        margin-right: auto;
+       padding-right: 30px;
+       border-radius: 30px;
+        
+    }
+
+
+    .section1-paragraph1 a{
+
+        text-decoration: none;
+        color: #41BEFF;
+        font-family: poppins, sans-serif;
+        font-size: 10px;
+        font-weight: 500;
+       
+    }
+    
+    #new{
+        color: white;
+        background-color: #06A0F1;
+        text-align: center;
+        
+        border-radius: 15px;
+        width: 60px;
+        font-size: 10px;
+        margin: 4px;
+        
+        }
+
+        #new a{
+            color: white;
+        }
+        .Available{
+        width: 300px;
+        margin-right: -1rem;
+        margin-left: -13px;
+        }
+
+        .connect{
+            font-size: 38px;
+            font-family:poppins, sans-serif ;
+            width: 90%;
+            line-height: 40px;
+           
+            display: inline-block;
+            flex-direction: column;
+            color: rgb(16, 42, 67);
+            font-weight: 700;
+            margin-top: 30px;
+        }
+
+
+    
+    .connect span{
+        color: rgb(65, 190, 255);
+    }
+    .section1-paragraph2{
+        display: inline-block;
+        font-family: poppins, sans-serif;
+        width: 90%;
+        opacity: 0.8;
+        font-size: 1rem;
+        font-weight: 300;
+        padding: 20px;
+    
+    }
+    
+    .section1-paragraph3{
+     
+    }
+
+    .section1-paragraph3 a{
+       
+    }
+    
+    
+    .section1-paragraph3 img{
+        width: 125px;
+        padding: 10px 8px;
+        border-radius: 14px;
+    }
+    #app-store:hover{
+        width: 140px;
+     transition: width 0.3s;
+     transition-timing-function: ease;
+   
+    
+    }
+        
+
+    .section1-image{
+        background-image: url(./Mobile-App-Hero-BG-2.webp);
+        position: relative;
+        z-index: 2;
+    
+    }
+
+    .section1-image img{
+        width: 500px;
+        padding: 20px;
+        margin-top: 20px;
+     }
+
+     .section2{
+     margin-top: -20px;
+        background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);
+    
+    }
+
+    .section2-page1{
+        display: flex;
+        height: 30rem;
+        flex-direction: column;
+        justify-content: center;
+        width: 90%;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 50px;
+      
+        margin-top: 4rem;
+        
+    
+        
+    }
+
+    .section2-side1{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        font-family: poppins, sans-serif;
+        margin-bottom: 20px;
+        
+        }
+
+        .section2-side1-header{
+            font-size: 28px;
+            font-weight: 700;
+            line-height: 33.59px;
+            color: rgb(16, 42, 67);
+         
+            
+        }
+
+        .section2-side1-header span{
+            color: #41BEFF;
+        }
+        .section2-side1-paragraph{
+            font-size: 14px;
+            width: 80%;
+            font-weight: 400;
+            color: rgb(72, 101, 129);
+            
+                }
+                .section2-side1-button{
+                    background-color: rgb(65, 190, 255);
+                    width: 100px;
+                    text-align: center;
+                    padding: 15px 38px;
+                    border-radius: 100px;
+                    font-weight: 600;
+                    margin-top: 10px;
+                    
+                        }
+
+                        .section2-side1-button a{
+                            text-decoration: none;
+                            color: white;
+                            
+                            font-size: 14px;
+                        }
+
+
+                        .section2-side2{
+                            display: flex;
+                            
+                           width: 100%;
+                          
+                        }
+
+                        #Mobile-App-Revolutionize-Image-2{
+                           
+                            height: 141px;
+                           position: relative;
+                           left: 27%;
+                           top: 0%;
+                          margin-top: 9px;
+                          
+                        }
+
+                        .Mobile-App-Revolutionize-Image{
+
+                          
+                            width: 100%;
+                            height: 342.5625px;
+                        }
+                        
+
+
+.page2-element-icon{
+
+  
+}
+
+.Mobile-App-Revolutionize-Image{
+
+    display: block;
+    width: 100%;
+    height: 342.5625px;
+}
+
+.image-2{
+   
+    background-color: white;
+    height: auto;
+    width: 100%;
+    margin-bottom: 20px;
+    max-width: 100%;
+    box-shadow: rgba(64, 72, 82, 0.1) 0px 20px 40px 0px;
+    overflow: hidden;
+    border-radius: 24px;
+    
+    }
+    .image-2 img{
+        width: 100%;
+        height: auto;
+        border-radius: 24px;
+        max-width: 100%;
+    }
+
+
+
+.image-1{
+    width: 100%;
+    max-width: 100%;
+}
+
+.image-3{
+position: absolute;
+    margin-left: -2rem;
+    margin-top: -6rem;
+    box-shadow: rgba(64, 72, 82, 0.1) 0px 20px 40px 0px;
+    overflow: hidden;
+    height: 64px;
+    width: 50%;
+    max-width: 100%;
+    border-radius: 30px;
+  
+    float: right;
+    
+    }
+    .image-3 img{
+        width: 100%;
+        max-width: 100%;
+        height: 64px;
+        border-radius: 30px;
+    }
+
+    .section2-page2{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-content: center;
+        padding-top: 50px;
+        gap: 7rem;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    margin-bottom: 50px;
+        margin-top: 4rem;
+        
+            }
+
+            .section2-page2-side1{
+
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+              
+                width: 100%;
+               
+            }
+            .page2-image-container-1{
+                display: flex;
+                flex-direction: column;
+                gap: 5rem;
+                position: relative;
+                left: 10.5%;
+               margin-top: -5rem; 
+               
+                width: 100%;
+                }
+                .page2-element-icon{
+
+                    background-color: rgb(255, 199, 0);
+                    height: 40px;
+                    width: 42px;
+                    border-radius: 50%;
+                    margin-left: 0rem;
+                }
+
+
+                .page2-element-icon i{
+                    color: white;
+                    position: relative;
+                    top: 30%;
+                    left: 28%;
+                    transform: translate(-50%, -50%);
+                    font-size: 14px;
+                      transform: rotate(50deg);
+                    }
+
+.page2-image-icon{
+    width: 100%;
+border-radius: 16px;
+
+
+}
+
+.page2-image-icon img{
+    width: 100%;
+  
+    box-shadow: rgba(64, 72, 82, 0.12) 0px 20px 40px 0px;
+    border-radius: 16px;
+    
+    }
+
+
+    .page2-image-container-2{
+width: 100%;
+
+    }
+
+    .page2-image-container-2 img{
+        height: 479px;
+        width: 85%;
+    }
+    .section2-page2-side2{
+        width: 100%;
+        align-items: center;
+        justify-content: flex-end;
+     
+        margin-bottom: -4rem;
+        
+        }
+        .section2-page2-side2-header{
+            color: rgb(16, 42, 67);
+            font-size: 28px;
+            font-weight: 700;
+            word-spacing: 0rem;
+            font-family: poppins, sans-serif;
+            
+            }
+            .section2-page2-side2-header span{
+
+                color: rgb(65, 190, 255);
+            }
+
+
+
+            .section2-page2-side2-paragraph{
+                display: block;
+                color:  rgb(72, 101, 129);
+                font-family: poppins, sans-serif;
+                font-weight: 400;
+                width: 100%;
+                line-height: 1.5rem;
+                font-size: 14px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+
+
+.section2-page2-side2-footer{
+
+    line-height: 3rem;
+}
+
+.section2-page2-side2-footer div{
+    font-size: 16px;
+    color: rgb(16, 42, 67);
+    font-weight: 600;
+    font-family: poppins, sans-serif;
+}
+
+
+.section2-page2-side2-footer span{
+
+    color: rgb(65, 190, 255);
+    margin-right: 1.5rem;
+}
+#copy-Link{
+
+    width: 100%;
+   margin-top: 3rem;
+    margin-left: -1.0rem;
+   
+ }
+
+
+.section2-page3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding-top: 50px;
+    gap: 7rem;
+    width: 100%;
+  background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);;
+
+    margin-top: 4rem;
+    padding-top: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
+.page-3{
+
+    width: 95%;
+}
+
+.section2-3{
+    width: 90%;
+}
+
+
+.section3{
+
+    background-image: linear-gradient(rgb(239, 248, 255) 50%, rgb(2, 15, 51) 50%);
+    height: 1600px;
+padding: 84px 0px;
+}
+
+.section3-page1{
+display: block;
+width: 90%;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+margin-bottom: 30px;
+
+}
+
+.section3-page1-content1{
+    color: rgb(16, 42, 67);
+    font-size: 28px;
+    font-weight: 700;
+    word-spacing: 0rem;
+    font-family: poppins, sans-serif;
+    line-height: 2rem;
+    margin-left: auto;
+margin-right: auto;
+    width: 100%;
+
+}
+.section3-page1-content1 span{
+
+    color: rgb(65, 190, 255);
+
+}
+
+.section3-page1-content2{
+    color: rgb(72, 101, 129);
+    font-weight: 300;
+    font-family: poppins, sans-serif;
+    font-size: 16px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    
+    }
+
+
+
+
+    .section3-page2{
+
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+      justify-content: center;
+      align-items: center;
+       position: relative;
+       
+       left: 10%;
+    }
+    .section3-page2-content1, .section3-page2-content2{
+        background-color: white;
+        margin: 1rem;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        border-radius: 18px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       padding: 20px;
+        
+        }
+        .section3-page2-content1 div{
+            display: flex;
+            justify-content: center;
+            
+            }
+.section3-page2-content1 div{
+display: flex;
+justify-content: center;
+
+}
+.section3-page2-content2 div{
+    display: flex;
+    justify-content: center;
+    }
+    #communication{
+        width: 100%;
+       position: relative;
+        
+        }
+        
+    #communication2{
+        width: 100%;
+        position: relative;
+        
+        }
+
+
+
+        .communication{
+            font-family: Poppins, sans-serif;
+            text-align: center;
+            width: 60%;
+           
+            font-size: 1.1rem;
+            color: rgb(16, 42, 67);
+            font-weight: 600;
+        }
+
+        .connects{
+
+            text-align: center;
+           font-size: 14px;
+            color: rgb(72, 101, 129);
+            font-family: Poppins, sans-serif;
+            width: 100%;
+            font-weight: 400;
+            margin: 15px 0;
+        }
+
+        .section3-page3{
+   
+            color: white;
+           
+      
+            font-family: Poppins, sans-serif;
+            position: relative;
+            font-size: 28px;
+            text-align: center;
+            width: 90%;
+            font-weight: 700;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 2.2rem;
+            margin: 40px;
+            
+          
+        }
+        .section3-page4{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            top: 0%;
+            font-family: Poppins, sans-serif;
+            
+            
+            }
+
+            .section3-page4 > div{
+                width: 80%;
+                height: 100%;
+                background-color: white;
+                margin: 10px 10px;
+                box-shadow: rgba(34, 47, 62, 0.15) 0px 10px 50px 0px;
+                transition: 0.3s ease;
+                }
+
+                .section3-page4 > div:hover{
+                    margin-top: -5px;
+                    
+                    
+                    }
+
+                    .template1{
+                        padding: 10px 30px;
+                        border-top: 2px solid rgb(255, 199, 0);
+                        border-radius: 16px;
+                       
+                        }
+                        .template1-icon{
+                            background-color: rgb(255, 199, 0);
+                            width: 50px;
+                            height: 50px;
+                            text-align: center;
+                            display: table;
+                            border-radius: 100px;
+                            margin: 20px 0;
+                            
+                            }
+                            .template1-icon i{
+                                font-size: 24px;
+                                display: table-cell;
+                                vertical-align: middle;
+                                text-align: center;
+                                color: rgb(16, 42, 67);
+                                }
+                                .template2{
+                                    padding: 10px 30px;
+                                    border-top: 2px solid rgb(0, 217, 255);
+                                    border-radius: 16px;
+                                    
+                                    }
+                                    
+                                    .template2-icon{
+                                    background-color: rgb(0, 217, 255);
+                                    width: 50px;
+                                    height: 50px;
+                                    text-align: center;
+                                    display: table;
+                                    border-radius: 100px;
+                                    margin: 20px 0;
+                                    
+                                    }
+                                       
+                                    .template2-icon i{
+                                    font-size: 24px;
+                                    display: table-cell;
+                                    vertical-align: middle;
+                                    text-align: center;
+                                    color: rgb(16, 42, 67);
+                                    }
+                                
+                                    .template3{
+                                        padding: 10px 30px;
+                                        border-top: 2px solid rgb(255, 86, 0);
+                                        border-radius: 16px;
+                                        
+                                        }
+                                        
+                                        .template3-icon{
+                                        background-color: rgb(255, 86, 0);
+                                        width: 50px;
+                                        height: 50px;
+                                        text-align: center;
+                                        display: table;
+                                        border-radius: 100px;
+                                        margin: 20px 0;
+                                        }
+                                           
+                                        .template3-icon i{
+                                        font-size: 24px;
+                                        display: table-cell;
+                                        vertical-align: middle;
+                                        text-align: center;
+                                        color: rgb(16, 42, 67);
+                                        }
+                                        .template-content {
+
+                                            line-height: 1.5rem;
+                                        }
+
+                                        .template-content h4{
+                                            font-size: 16px;
+                                            font-weight: 600;
+                                            color: rgb(16, 42, 67);
+                                            
+                                                    }
+                                                    .template-content p{
+                                                        font-size: 14px;
+                                                        color: rgb(72, 101, 129);
+                                                        font-weight: 400;
+                                                        margin: 10px 0;
+                                                      
+                                            
+                                                    }
+
+                                                    .section3-page5{
+                                                        background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);;
+                                                        height: 100%;
+                                                        position: relative;
+                                                        width: 100%;
+                                                      margin-top: 2rem;
+                                                   display: flex;
+
+                                                 justify-content: center;
+align-items: center;
+                                                        justify-content: center;
+                                                        align-items: center;
+                                                                }
+                                                                .elementor-heading{
+                                                                    font-family: Poppins, sans-serif;
+                                                                display: flex;
+                                                                justify-content: center;
+                                                                align-items: center;
+                                                                }
+                                                                .elementor-heading h2{
+
+                                                                    color: rgb(16, 42, 67);
+                                                                    font-size: 28px;
+                                                                    width: 90%;
+                                                                    margin: 20px;
+                                                                }
+
+
+                                                                .slide-container{
+                                                                    max-width: 100%;
+                                                                        width: 100%;
+                                                                        position: relative;
+                                                                        overflow: hidden;
+                                                                        left: 3%;
+                                                                    
+                                                                    
+                                                                    }
+
+                                                                    .slide-content{
+
+                                                                        display: flex;
+                                                                        width: 100%;
+                                                                        z-index: 100;
+                                                                        position: relative;
+                                                                      
+                                                                     }
+
+                                                                     .card-wrapper{
+                                                                        background-color: white;
+                                                                        border: 1px solid rgb(225, 226, 228);
+                                                                        height: 270px;
+                                                                        padding: 24px;
+                                                                        border-radius: 12px;
+                                                                        box-shadow:  rgba(48, 56, 66, 0.13) 5px 5px 20px -5px;
+                                                                    margin-right: 30px;
+                                                                    width: 50%;
+                                                                    }
+                                                                    .card{
+
+                                                                        width: 100%;
+                                                                        
+                                                                        
+                                                                        }
+                                                                        .card-image{
+                                                                            height: 48px;
+                                                                            width: 48px;
+                                                                           
+                                                                        
+                                                                            
+                                                                        }
+                                                                        .card-image .card-img{
+                                                                            width: 100%;
+                                                                            height: 100%;
+                                                                            object-fit: cover;
+                                                                            border-radius: 50%;
+                                                                           
+                                                                        }
+
+
+                                                                        .card-content{
+                                                                            font-family: Poppins, sans-serif;
+                                                                           margin-left: 2px;
+                                                                         width: 80%;
+                                                                
+                                                                
+                                                                        }
+                                                                        .card-bio{
+                                                                            line-height: 1.5rem;
+                                                                        }
+                                                                
+                                                                        .card-bio h3{
+                                                                            color: rgb(16, 42, 67);
+                                                                            font-size: 16px;
+                                                                            font-weight: 600;
+                                                                        }
+
+
+        .card-bio p{
+            color: rgb(72, 101, 129);
+            font-size: 14px;
+            font-weight: 400;
+            
+            
+        }
+
+        .card-paragraph{
+            color: rgb(16, 42, 67);
+            font-size: 14px;
+            font-weight: 400;
+        
+
+        }
+
+        .space{
+
+            height: 300px;
+        }
+
+                                                                
+
+
+        .section3-page6{
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+            align-content: center;
+            padding-top: 50px;
+           
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        margin-bottom: 50px;
+            margin-top: 4rem;
+            
+                }
+
+
+
+
+                .section3-page6-side1{
+
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    justify-content: center;
+                  
+                    width: 100%;
+                   
+                }
+
+        .page6-image-container{
+width: 90%;
+
+
+        }
+
+        .page6-image-container img{
+            height: 100%;
+            width: 100%;
+        }
+
+        .section3-page6-side2{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+           
+         
+         
+            
+            }
+            .section3-page6-side2-header{
+                color: rgb(16, 42, 67);
+                font-size: 28px;
+                font-weight: 600;
+                word-spacing: 0rem;
+                font-family: poppins, sans-serif;
+                width: 100%;
+                line-height: 35px;
+                }
+                .section3-page6-side2-paragraph {
+                    display: block;
+                    color: rgb(72, 101, 129);
+                    font-family: poppins, sans-serif;
+                    font-weight: 300;
+                    width: 85%;
+                    line-height: 1.5rem;
+                    font-size: 16px;
+                    
+                }
+
+                .footer{
+
+                    background-color: rgb(2, 15, 51);
+                    height: 100%;
+                    
+                                    }
+                                    .footer-section1{
+                                        display: flex;
+                                        flex-direction: row;
+                                        position: relative;
+                                        justify-content: center;
+                                        align-items: center;
+                                        top: 10%;
+                                        width: 100%;
+                                        padding: 20px;
+                                        flex-wrap: wrap;
+                                                        }
+
+                                                        .footer-section1-side1{
+                                                            display: flex;
+                                                            flex-direction: column;
+                                                            justify-content: center;
+                                                            align-items: center;
+                                                            
+                                                            
+                                                            padding: 10px 30px;
+                                                            
+                                                            
+                                                            
+                                                            }
+                                                            .footer-section1-side1-header{
+                                                                display: flex;
+                                                               
+                                                                text-align: center;
+                                                                  justify-content: center;
+                                                                  align-items: center;
+                                                                  width: 100%;
+                                                                margin-bottom: 1.5rem;
+                                                                
+                                                                }
+                                                                #footer-img{
+                                                                    width: 120px;
+                                                                    
+                                                                    
+                                                                    }
+                                                                    .footer-section1-side1-paragragh{
+                                                                        display: flex;
+                                                                      text-align: center;
+                                                                        justify-content: center;
+                                                                        align-items: center;
+                                                                        width: 100%;
+                                                                        
+                                                                        }
+                                                                        .footer-section1-side1-paragragh p{
+                                                                            color: white;
+                                                                            font-family: poppins, sans-serif;
+                                                                            font-size: 14px;
+                                                                            }               
+                                                                            
+                                                                            .footer-section1-side2{
+                                                                                display: flex;
+                                                                                flex-direction: row;
+                                                                                justify-content: center;
+                                                                                align-items: center;
+                                                                                flex-wrap: wrap;
+                                                                                gap: 30px;
+                                                                              
+                                                                               position: relative;
+                                                                              
+                                                                             padding: 0 20px;
+                                                                             width: 100%;
+                                                                            }                                                   
+
+                                                                            .footer-section1-side2 ul{
+                                                                                padding: 10px 40px;
+                                                                                display: flex;
+                                                                                flex-direction: column;
+                                                                               
+                                                                                flex-wrap: wrap;
+                                                                                width: 30%;
+                                                                                justify-content: center;
+                                                                                align-items: center;
+                                                                               
+
+
+                                                                        
+                                                        
+
+                                                                            
+                                                                            }
+                                                                            .footer-section1-side2 li{
+                                                                              line-height: 2.1rem;
+                                                                                    list-style: none;
+                                                                                  
+                                                                                }
+
+                                                                                .footer-section1-side2 a{
+
+                                                                                    text-decoration: none;
+                                                                                    color: white;
+                                                                                    font-family: poppins, sans-serif;
+                                                                                    color: rgb(217, 226, 236);
+                                                                                    font-weight: 300;
+                                                                                    font-size: 14px;
+                                                                                }
+
+                                                                                .footer-section1-side2 a:hover{
+                                                                                    color: #06A0F1;
+                                                                                }
+                                                                                #case-heading{
+
+                                                                                    color: white;
+                                                                                    font-weight: 600;
+                                                                                    font-family: poppins, sans-serif;
+                                                                                    font-size: 14px;
+                                                                                }            
+                                                                                
+                                                                                .footer-setion2{
+                                                                                    width: 100%;
+                                                                                   position: relative;
+                                                                                   top: 10%;
+                                                                                   display: flex;
+                                                                                   justify-content: center;
+                                                                                   align-items: center;
+                                                                                   padding: 30px 0;
+                                                                                }
+                                                                                .footer-section2-paragragh{
+ 
+                                                                                    width: 100%;
+                                                                                    
+                                                                                   
+                                                                                       
+                                                                                   }
+                                                                                   .footer-section2-paragragh p{
+                                                                                    text-align: center;
+                                                                                    color: rgba(255, 255, 255, 0.54);
+                                                                                    font-family: poppins, sans-serif;
+                                                                                    font-size: 12px;
+                                                                                }
+
+                                                                                .footer-section2-paragragh #uicore{
+                                                                                    color: #41BEFF;
+                                                                                    text-decoration: none;
+                                                                                }
+                                                                                
+
+.footer-mobile{
+    display: none;
+}
+
+                                                                               
+
+
+@media only screen and (min-width:700px){ 
+
+
+    
+    
+}
+
+
+@media only screen and (min-width:1024px){ 
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+
+    font-size: 16px;
+    margin: 0;
+    overflow-x: hidden;
+
+    
+}
+
+.top-body{
+
+ background-image: url(/Mobile-App-Hero-BG.webp);
+background-position-x: 0px;
+background-position-y: 30%;
+background-repeat: no-repeat;
+background-size: contain;
+display: block;
+height: 100%;
+line-height: 25.6px;
+color: rgb(72, 101, 129);
+background-color: #EFF8FF;
+width: 100%;
+overflow: hidden;
+
+}
+
+.header-wrapper{
+    
+}
+
+nav{
+
+display: flex;
+justify-content: space-around;
+width: 100%;
+align-items: center;
+padding: 15px;
+
+
+/* background-color: white; */
+
+
+
+}
+
+.toggle{
+    display: none;
+
+
+}
+
+nav a{
+    text-decoration: none;
+    font-family: poppins, sans-serif;
+    color: black;
+    font-size: 1rem;
+
+}
+.logo-header img{
+    width: 118px;
+}
+
+.list-items{
+    display: flex;
+    list-style: none;
+    
+   
+}
+.list-items li{
+padding-left: 25px;
+
+
+}
+
+.list-items a:hover{
+color: #06A0F1;
+
+}
+.nav-list{
+    display: flex;
+}
+.nav-end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-end a
+{
+    padding-right: 14px;
+    margin-left: 25px;
+}
+#Get-app{
+
+    background-color:white ;
+   padding: 12px 28.8px;
+   border-radius: 40px;
+   font-weight: 500;
+}
+#Get-app:hover{
+color: white;
+background-color: #06A0F1;
+}
+    
+.section1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.section1-header{
+margin-top: 8rem;
+    
+}
+.section1-paragraph1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: rgb(223, 241, 255);
+    width: 345.5px;
+    margin-left: auto;
+    margin-right: auto;
+   padding-right: 30px;
+   border-radius: 30px;
+    
+}
+.section1-paragraph1 a{
+
+    text-decoration: none;
+    color: #41BEFF;
+    font-family: poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+   
+}
+
+#new{
+color: white;
+background-color: #06A0F1;
+text-align: center;
+
+border-radius: 15px;
+width: 60px;
+font-size: 14px;
+margin: 4px;
+
+}
+#new a{
+    color: white;
+}
+.Available{
+width: 300px;
+margin-right: -1rem;
+
+}
+
+.connect{
+    font-size: 72px;
+    font-family:poppins, sans-serif ;
+    width: 70%;
+    line-height: 79px;
+   
+    display: inline-block;
+    flex-direction: column;
+    color: rgb(16, 42, 67);
+    font-weight: 700;
+    margin-top: 30px;
+}
+.connect span{
+    color: rgb(65, 190, 255);
+}
+.section1-paragraph2{
+    display: inline-block;
+    font-family: poppins, sans-serif;
+    width: 40%;
+    opacity: 0.8;
+    font-size: 1.1rem;
+    font-weight: 300;
+
+}
+
+.section1-paragraph3{
+
+}
+
+.section1-paragraph3 img{
+    width: 160px;
+    padding: 10px 8px;
+    border-radius: 14px;
+}
+
+
+#app-store:hover{
+    width: 180px;
+ transition: width 0.3s;
+
+
+}
+
+
+.section1-image{
+    background-image: url(./Mobile-App-Hero-BG-2.webp);
+    position: relative;
+    z-index: 2;
+   
+    
+
+}
+.section1-image img{
+   width: 760px;
+   padding: 20px;
+   margin-top: 20px;
+}
+.section2{
+    background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);
+    margin-top: -4.1rem;
+
+}
+
+
+
+.section2-page1{
+    display: flex;
+    height: 30rem;
+    flex-direction: row;
+    justify-content: center;
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+
+    
+
+    
+}
+
+.section2-side1{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    font-family: poppins, sans-serif;
+    
+    }
+    
+    .section2-side1-header{
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 67.12px;
+        color: rgb(16, 42, 67);
+        
+    }
+    .section2-side1-header span{
+        color: #41BEFF;
+    }
+
+    .section2-side1-paragraph{
+font-size: 1rem;
+width: 80%;
+font-weight: 400;
+color: rgb(72, 101, 129);
+
+    }
+    .section2-side1-button{
+background-color: rgb(65, 190, 255);
+width: 100px;
+text-align: center;
+padding: 15px 38px;
+border-radius: 100px;
+font-weight: 600;
+margin-top: 10px;
+
+    }
+
+   
+    .section2-side1-button a{
+        text-decoration: none;
+        color: white;
+        
+        
+    }
+
+
+
+
+
+
+.section2-side2{
+    display: flex;
+    
+   
+}
+
+#Mobile-App-Revolutionize-Image-2{
+    width: 270px;
+    height: 141px;
+   position: relative;
+   left: 27%;
+   top: 0%;
+  margin-top: 9px;
+  
+}
+
+.Mobile-App-Revolutionize-Image{
+
+    display: block;
+    width: auto;
+    height: 342.5625px;
+}
+
+.image-2{
+   
+background-color: white;
+height: 342.6px;
+width: 300px;
+box-shadow: rgba(64, 72, 82, 0.1) 0px 20px 40px 0px;
+overflow: hidden;
+border-radius: 24px;
+
+}
+.image-2 img{
+    width: 300px;
+    height: 342.5625px;
+    border-radius: 24px;
+}
+
+.image-3{
+position: absolute;
+margin-left: -2rem;
+margin-top: -6rem;
+box-shadow: rgba(64, 72, 82, 0.1) 0px 20px 40px 0px;
+overflow: hidden;
+height: 64px;
+width: 360px;
+border-radius: 30px;
+
+
+}
+
+.image-3 img{
+    width: 360px;
+    height: 64px;
+    border-radius: 30px;
+}
+
+
+.section2-page2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 50px;
+    gap: 7rem;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: 50px;
+    margin-top: 4rem;
+    
+        }
+
+
+.section2-page2-side1{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  
+    width: 80%;
+   
+}
+
+.page2-image-container-1{
+display: flex;
+flex-direction: column;
+gap: 5rem;
+position: relative;
+left: 7.5%;
+margin-top: 3rem;
+width: 43.5%;
+}
+
+.page2-element-icon{
+
+    background-color: rgb(255, 199, 0);
+    height: 63px;
+    width: 64px;
+    border-radius: 100px;
+    margin-left: 2rem;
+}
+
+.page2-element-icon i{
+color: white;
+position: relative;
+top: 30%;
+left: 28%;
+transform: translate(-50%, -50%);
+font-size: 25px;
+  transform: rotate(50deg);
+}
+
+.page2-image-icon{
+    width: 320px;
+border-radius: 16px;
+
+
+}
+
+.page2-image-icon img{
+width: 320px;
+box-shadow: rgba(64, 72, 82, 0.12) 0px 20px 40px 0px;
+border-radius: 16px;
+
+
+
+  
+}
+
+.page2-image-container-2{
+
+
+}
+
+.page2-image-container-2 img{
+    height: 479px;
+    width: 250px;
+}
+.section2-page2-side2{
+width: 60%;
+align-items: center;
+justify-content: flex-end;
+margin-left: 4rem;
+
+}
+
+.section2-page2-side2-header{
+color: rgb(16, 42, 67);
+font-size: 56px;
+font-weight: 700;
+word-spacing: 0rem;
+font-family: poppins, sans-serif;
+
+}
+
+
+.section2-page2-side2-header span{
+
+    color: rgb(65, 190, 255);
+}
+.section2-page2-side2-paragraph{
+    display: block;
+    color:  rgb(72, 101, 129);
+    font-family: poppins, sans-serif;
+    font-weight: 400;
+    width: 90%;
+    line-height: 1.5rem;
+    font-size: 16px;
+}
+
+.section2-page2-side2-footer{
+
+    line-height: 3rem;
+}
+
+.section2-page2-side2-footer div{
+    font-size: 18px;
+    color: rgb(16, 42, 67);
+    font-weight: 600;
+    font-family: poppins, sans-serif;
+}
+
+.section2-page2-side2-footer span{
+
+    color: rgb(65, 190, 255);
+    margin-right: 1.5rem;
+}
+
+#copy-Link{
+
+   width: 320px;
+   margin-top: -3.5rem;
+   margin-left: -4.5rem;
+  
+}
+.section2-page3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 50px;
+    gap: 7rem;
+    width: 100%;
+  background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);;
+
+    margin-top: 4rem;
+    padding-top: 7rem;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.section3{
+
+    background-image: linear-gradient(rgb(239, 248, 255) 50%, rgb(2, 15, 51) 50%);
+    height: 1400px;
+padding: 84px 0px;
+}
+
+.section3-page1{
+display: block;
+width: 70%;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+top: 10%;
+
+}
+
+
+.section3-page1-content1{
+    color: rgb(16, 42, 67);
+    font-size: 56px;
+    font-weight: 700;
+    word-spacing: 0rem;
+    font-family: poppins, sans-serif;
+    line-height: 4rem;
+    margin-left: auto;
+margin-right: auto;
+    width: 80%;
+
+}
+
+.section3-page1-content1 span{
+
+    color: rgb(65, 190, 255);
+
+}
+.section3-page1-content2{
+color: rgb(72, 101, 129);
+font-weight: 300;
+font-family: poppins, sans-serif;
+font-size: 1.1rem;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1rem;
+
+}
+.section3-page2{
+
+    display: flex;
+    flex-direction: row ;
+    width: 80%;
+  
+   position: relative;
+   top: 13%;
+}
+.section3-page2-content1, .section3-page2-content2{
+background-color: white;
+margin: 2rem;
+width: 582px;
+height: 480px;
+overflow: hidden;
+border-radius: 18px;
+
+}
+.section3-page2-content1 div{
+display: flex;
+justify-content: center;
+
+}
+.section3-page2-content2 div{
+display: flex;
+justify-content: center;
+}
+#communication{
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+
+}
+#communication2{
+width: 380px;
+position: relative;
+
+}
+.communication{
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5rem;
+    color: rgb(16, 42, 67);
+    font-weight: 600;
+}
+.connects{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(72, 101, 129);
+    font-family: Poppins, sans-serif;
+    width: 75%;
+    font-weight: 400;
+}
+.section3-page3{
+   
+    color: white;
+   
+top: 17%;
+    font-family: Poppins, sans-serif;
+    position: relative;
+    font-size: 56px;
+    text-align: center;
+    width: 60%;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 4.2rem;
+    
+    
+  
+}
+
+.section3-page4{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+position: relative;
+top: 20%;
+font-family: Poppins, sans-serif;
+
+
+}
+
+
+.section3-page4 > div{
+width: 269.3px;
+height: 235px;
+background-color: white;
+margin: 30px 10px;
+box-shadow: rgba(34, 47, 62, 0.15) 0px 10px 50px 0px;
+transition: 0.3s ease;
+}
+.section3-page4 > div:hover{
+margin-top: -5px;
+
+
+}
+
+.template1{
+padding: 30px;
+border-top: 2px solid rgb(255, 199, 0);
+border-radius: 16px;
+
+}
+
+.template1-icon{
+background-color: rgb(255, 199, 0);
+width: 50px;
+height: 50px;
+text-align: center;
+display: table;
+border-radius: 100px;
+
+}
+   
+.template1-icon i{
+font-size: 24px;
+display: table-cell;
+vertical-align: middle;
+text-align: center;
+color: rgb(16, 42, 67);
+}
+
+
+.template2{
+    padding: 30px;
+    border-top: 2px solid rgb(0, 217, 255);
+    border-radius: 16px;
+    
+    }
+    
+    .template2-icon{
+    background-color: rgb(0, 217, 255);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: table;
+    border-radius: 100px;
+    
+    }
+       
+    .template2-icon i{
+    font-size: 24px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: rgb(16, 42, 67);
+    }
+
+    .template3{
+        padding: 30px;
+        border-top: 2px solid rgb(255, 86, 0);
+        border-radius: 16px;
+        
+        }
+        
+        .template3-icon{
+        background-color: rgb(255, 86, 0);
+        width: 50px;
+        height: 50px;
+        text-align: center;
+        display: table;
+        border-radius: 100px;
+        
+        }
+           
+        .template3-icon i{
+        font-size: 24px;
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        color: rgb(16, 42, 67);
+        }
+
+        .template-content {
+
+            line-height: 1.5rem;
+            
+        }
+        
+        .template-content h4{
+font-size: 20px;
+font-weight: 600;
+color: rgb(16, 42, 67);
+
+        }
+
+        .template-content p{
+            font-size: 16px;
+            color: rgb(72, 101, 129);
+            font-weight: 400;
+            
+
+        }
+
+        .section3-page5{
+background-image: linear-gradient(rgba(255, 247, 236, 0.31) 0%, rgba(255, 247, 236, 0) 100%);;
+height: 646px;
+position: relative;
+top: 25%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+        }
+.elementor-heading{
+    font-family: Poppins, sans-serif;
+display: block;
+}
+.elementor-heading h2{
+
+    color: rgb(16, 42, 67);
+    font-size: 56px;
+    width: 50%;
+}
+
+.slide-container{
+max-width: 1300px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    left: 3%;
+
+
+}
+
+.slide-content{
+
+   display: flex;
+   width: 1216px;
+   z-index: 100;
+   position: relative;
+ 
+}
+.card-wrapper{
+    background-color: white;
+    border: 1px solid rgb(225, 226, 228);
+    height: 270px;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow:  rgba(48, 56, 66, 0.13) 5px 5px 20px -5px;
+margin-right: 30px;
+
+}
+
+.card{
+
+width: 327px;
+
+
+}
+
+        .card-image{
+            height: 48px;
+            width: 48px;
+           
+        
+            
+        }
+
+        .card-image .card-img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
+           
+        }
+        .card-content{
+            font-family: Poppins, sans-serif;
+           margin-left: 2px;
+           width: 100%;
+
+
+        }
+        .card-bio{
+            line-height: 1.0rem;
+        }
+        .card-bio h3{
+            color: rgb(16, 42, 67);
+            font-size: 16px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .card-bio p{
+            color: rgb(72, 101, 129);
+            font-size: 14px;
+            font-weight: 400;
+            
+            
+        }
+
+        .card-paragraph{
+            color: rgb(16, 42, 67);
+            font-size: 16px;
+            font-weight: 400;
+            margin-top: 20px;
+
+        }
+
+        .space{
+
+            height: 300px;
+        }
+.section3-page6{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 50px;
+   
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: 50px;
+    margin-top: 4rem;
+    
+        }
+
+        .section3-page6-side1{
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+          
+            width: 100%;
+           
+        }
+
+        .page6-image-container{
+
+
+        }
+        .page6-image-container img{
+            height: 443.3px;
+            width: 538px;
+        }
+
+        .section3-page6-side2{
+            width: 100%;
+            
+            align-items: center;
+            justify-content: center;
+         
+            
+            }
+
+            .section3-page6-side2-header{
+                color: rgb(16, 42, 67);
+                font-size: 56px;
+                font-weight: 600;
+                word-spacing: 0rem;
+                font-family: poppins, sans-serif;
+                width: 600px;
+                line-height: 67px;
+                }
+
+               
+                .section3-page6-side2-paragraph {
+                    display: block;
+                    color: rgb(72, 101, 129);
+                    font-family: poppins, sans-serif;
+                    font-weight: 400;
+                    width: 80%;
+                    line-height: 2rem;
+                    font-size: 18px;
+                }
+                .section3-page6-side2-footer{
+
+                    line-height: 3rem;
+                }
+                
+                             
+                .footer-mobile{
+                    display: block;
+
+                    background-color: rgb(2, 15, 51);
+                    height: 430px;
+                    
+                                    }
+                                    .footer-mobile-section1{
+                    display: flex;
+                    position: relative;
+                    justify-content: center;
+                    top: 10%;
+                    width: 100%;
+                    padding: 20px;
+                                    }
+                    .footer-section1-side1{
+                    display: block;
+                    
+                    
+                    padding: 10px 30px;
+                    
+                    
+                    
+                    }
+                    
+                    .footer-mobile-section1-side1-header{
+                    display: flex;
+                    justify-content: flex-start;
+                    margin-bottom: 1.5rem;
+                    
+                    }
+                    
+                    #footer-img{
+                    width: 120px;
+                    
+                    
+                    }
+                    .footer-section1-mobile-side1-paragragh{
+                    display: block;
+                    justify-content: flex-start;
+                    width: 200px;
+                    
+                    }
+                    .footer-section1-mobile-side1-paragragh p{
+                    color: white;
+                    font-family: poppins, sans-serif;
+                    }
+                    .footer-section1-mobile-side2{
+                        display: flex;
+                       position: relative;
+                       left: 0%;
+                     padding: 0 30px;
+                    }
+                    
+                    .footer-section1-mobile-side2 ul{
+                        padding: 0 50px;
+                    
+                    }
+                    .footer-section1-mobile-side2 li{
+                    line-height: 2.5rem;
+                        list-style: none;
+                      
+                    }
+                    .footer-section1-mobile-side2 a{
+                    
+                        text-decoration: none;
+                        color: white;
+                        font-family: poppins, sans-serif;
+                        color: rgb(217, 226, 236);
+                        font-weight: 300;
+                    }
+                    .footer-section1-mobile-side2 a:hover{
+                        color: #06A0F1;
+                    }
+                    
+                    #case-mobile-heading{
+                    
+                        color: white;
+                        font-weight: 600;
+                        font-family: poppins, sans-serif;
+                    }
+                    .footer-mobile-setion2{
+                        width: 100%;
+                       position: relative;
+                       top: 25%;
+                       
+                    }
+                    .footer-mobile-section2-paragragh{
+                     
+                     width: 100%;
+                     
+                    
+                        
+                    }
+                    .footer-mobile-section2-paragragh p{
+                        text-align: center;
+                        color: rgba(255, 255, 255, 0.54);
+                        font-family: poppins, sans-serif;
+                        font-size: 14px;
+                    }
+                    .footer-mobile-section2-paragragh #uicore{
+                        color: #41BEFF;
+                        text-decoration: none;
+                    }
+                    .footer{
+                        display: none;
+                    }
+
+}
